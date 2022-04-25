@@ -1,0 +1,31 @@
+.jumbo {
+    background-color: #ECF1F5;
+    font-size: 20px;
+    font-family: 'Lucida Sans Unicode';
+    margin-top: 10px;
+}
+
+.herotext {
+    color: #788EA3;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: #ECF1F5;
+}
+
+.box-2 {
+    width: 600px;
+    height: 450px;
+    background-color: #ECF1F5;
+}
+
+.navbar {
+    display: block;
+    float: right;
+}
+
+.copyright {
+    color: #798FA4;
+}
